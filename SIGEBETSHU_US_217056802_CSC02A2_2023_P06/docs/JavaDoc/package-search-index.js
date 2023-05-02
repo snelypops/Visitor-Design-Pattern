@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"acsse.csc2a.file"},{"l":"acsse.csc2a.gui"},{"l":"All Packages","u":"allpackages-index.html"}];updateSearchResults();
